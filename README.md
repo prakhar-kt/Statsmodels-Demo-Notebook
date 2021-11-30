@@ -10,3 +10,9 @@ Following methods have been explored :
 #### ETS Decompose
 
 #### Holt-Winters Method
+
+#### AD Fuller Test
+
+#### ACF and PACF Plots
+
+#### Month and Quarter Plots
